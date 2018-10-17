@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  LocalisationSwift
+
+  Created by IBM-MOBILITY on 17/10/18.
+  Copyright © 2018 DurgaPrasad. All rights reserved.
+*/
+
+// MARK: - Week days
+
+"WeekDay.Monday" = "Monday";
+"WeekDay.Tuesday" = "Tuesday";
+"WeekDay.Wednesday" = "Wednesday";
+"WeekDay.Thursday" = "Thursday";
+"WeekDay.Friday" = "Friday";
+"WeekDay.Saturday" = "Saturday";
+"WeekDay.Sunday" = "Sunday";
+"WeekDays" = "Days of the week";
+"Week.Favourite.Day" = "Select your Favourite Day";
+
+//MARK:- Buttons
+
+"Name.Button.First.Title" = "Log In";
+"Name.Button.Second.Title" = "Log Out";
+

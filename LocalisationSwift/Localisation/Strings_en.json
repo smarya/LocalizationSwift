@@ -1,0 +1,82 @@
+{
+    "lastUpdated": "2018-08-17T14:22:09.334Z",
+    "configs": [
+                {
+                "key": "Name.Button.First.Title",
+                "value": "Log In",
+                "description": null,
+                "updated": "2018-06-08T08:11:40.000Z",
+                "tsUpdated": 1528445500000
+                },
+                {
+                "key": "Name.Button.Second.Title",
+                "value": "Log out",
+                "description": null,
+                "updated": "2018-06-08T08:11:40.000Z",
+                "tsUpdated": 1528445500000
+                },
+                {
+                "key": "WeekDay.Monday",
+                "value": "Monday",
+                "description": null,
+                "updated": "2018-06-08T08:11:50.000Z",
+                "tsUpdated": 1528445510000
+                },
+                {
+                "key": "WeekDay.Tuesday",
+                "value": "Tuesday",
+                "description": null,
+                "updated": "2018-06-08T08:11:50.000Z",
+                "tsUpdated": 1528445510000
+                },                
+                {
+                "key": "WeekDay.Wednesday",
+                "value": "Wednesday",
+                "description": null,
+                "updated": "2018-06-08T08:11:50.000Z",
+                "tsUpdated": 1528445510000
+                },
+                {
+                "key": "WeekDay.Thursday",
+                "value": "Thursday",
+                "description": null,
+                "updated": "2018-06-08T08:11:50.000Z",
+                "tsUpdated": 1528445510000
+                },
+                {
+                "key": "WeekDay.Friday",
+                "value": "Friday",
+                "description": null,
+                "updated": "2018-06-08T08:11:50.000Z",
+                "tsUpdated": 1528445510000
+                },
+                {
+                "key": "WeekDay.Saturday",
+                "value": "Saturday",
+                "description": null,
+                "updated": "2018-06-08T08:11:50.000Z",
+                "tsUpdated": 1528445510000
+                },
+                {
+                "key": "WeekDay.Sunday",
+                "value": "Sunday",
+                "description": null,
+                "updated": "2018-06-08T08:11:50.000Z",
+                "tsUpdated": 1528445510000
+                },
+                {
+                "key": "WeekDays",
+                "value": "Days of the week",
+                "description": null,
+                "updated": "2018-06-08T08:13:21.000Z",
+                "tsUpdated": 1528445601000
+                },
+                {
+                "key": "Week.Favourite.Day",
+                "value": "Select your Favourite Day",
+                "description": null,
+                "updated": "2018-06-08T08:13:21.000Z",
+                "tsUpdated": 1528445601000
+                }
+                ]
+}

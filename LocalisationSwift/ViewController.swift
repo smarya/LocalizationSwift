@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  LocalisationSwift
 //
-//  Created by IBM-MOBILITY on 17/10/18.
+//  Created by DurgaPrasad on 17/10/18.
 //  Copyright © 2018 DurgaPrasad. All rights reserved.
 //
 
@@ -13,12 +13,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        testBtnOutlet.localizedNormalTitleKey = Localizable.string("WeekDay.Saturday", comment: "Test String")
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    @IBOutlet weak var testBtnOutlet: UIButton!
+    @IBOutlet weak var loginBtnOutlet: UIButton!
     
     @IBAction func LoginClick(_ sender: Any) {
      alertsController()

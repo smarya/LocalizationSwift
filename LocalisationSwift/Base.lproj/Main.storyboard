@@ -31,14 +31,28 @@
                                     <action selector="LoginClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rRe-fu-Fnt"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OIe-x7-pbM">
+                                <rect key="frame" x="162" y="247" width="50" height="36"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="36" id="IwU-8c-LSk"/>
+                                    <constraint firstAttribute="width" constant="50" id="rLg-ZD-Sij"/>
+                                </constraints>
+                                <state key="normal" title="&lt;Test&gt;"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="tYG-pN-JER" firstAttribute="top" secondItem="OIe-x7-pbM" secondAttribute="bottom" constant="35" id="4Ao-6U-ze0"/>
+                            <constraint firstItem="OIe-x7-pbM" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="NG5-bQ-m3Q"/>
                             <constraint firstItem="tYG-pN-JER" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Z8g-gs-ldQ"/>
                             <constraint firstItem="tYG-pN-JER" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="rGO-qL-Wet"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="loginBtnOutlet" destination="tYG-pN-JER" id="cRf-Pg-YO3"/>
+                        <outlet property="testBtnOutlet" destination="OIe-x7-pbM" id="6fv-e7-750"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

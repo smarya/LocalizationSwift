@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LocalisationSwift
 //
-//  Created by IBM-MOBILITY on 17/10/18.
+//  Created by DurgaPrasad on 17/10/18.
 //  Copyright © 2018 DurgaPrasad. All rights reserved.
 //
 
